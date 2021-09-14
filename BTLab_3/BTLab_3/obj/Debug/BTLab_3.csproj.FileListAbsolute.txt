@@ -1,0 +1,11 @@
+D:\LTC#_WinForm\BTLab_3\BTLab_3\bin\Debug\BTLab_3.exe.config
+D:\LTC#_WinForm\BTLab_3\BTLab_3\bin\Debug\BTLab_3.exe
+D:\LTC#_WinForm\BTLab_3\BTLab_3\bin\Debug\BTLab_3.pdb
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.csproj.AssemblyReference.cache
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.Properties.Resources.resources
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.csproj.GenerateResource.cache
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.csproj.CoreCompileInputs.cache
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.exe
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.pdb
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.SinhVienForm.resources
+D:\LTC#_WinForm\BTLab_3\BTLab_3\obj\Debug\BTLab_3.TimKiemForm.resources

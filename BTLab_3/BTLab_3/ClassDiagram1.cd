@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BTLab_3.QuanLySinhVien">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgCCAAAAAAAAAggAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>QuanLySinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BTLab_3.SinhVien">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAQAgAAAAAEAAgAAAAAAAAACAAAIAI=</HashCode>
+      <FileName>SinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BTLab_3.SinhVienForm">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hRKEAAA0FCCAURKSAAiIYKD6gyEwgQAABaACAo4EFBI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BTLab_3.TimKiemForm">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAIACAAAAAAAgCQAQAGAAAAAAAAACAAAAAgAAA=</HashCode>
+      <FileName>TimKiemForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="BTLab_3.SoSanh">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>QuanLySinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
