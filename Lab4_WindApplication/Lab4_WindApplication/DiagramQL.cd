@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab4_WindApplication.QuanLySinhVien">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Lab4_WindApplication.QuanLySinhVien.SoSanh" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>QuanLySinhVien.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIBAAAAAAAAAAAACCAAAAAAAAAggAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>QuanLySinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_WindApplication.SinhVien">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAQAgAAAAAEAAgAAAAAAAAAKAAAAAI=</HashCode>
+      <FileName>SinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_WindApplication.Program">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4_WindApplication.Form1">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AZAEAAAUFCAEABAQAAiAQCD6wyUwQIAgBKQKAqAAEBA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

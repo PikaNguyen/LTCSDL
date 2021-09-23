@@ -1,0 +1,10 @@
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\bin\Debug\Lab4_WindApplication.exe.config
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\bin\Debug\Lab4_WindApplication.exe
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\bin\Debug\Lab4_WindApplication.pdb
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\obj\Debug\Lab4_WindApplication.csproj.AssemblyReference.cache
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\obj\Debug\Lab4_WindApplication.Form1.resources
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\obj\Debug\Lab4_WindApplication.Properties.Resources.resources
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\obj\Debug\Lab4_WindApplication.csproj.GenerateResource.cache
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\obj\Debug\Lab4_WindApplication.csproj.CoreCompileInputs.cache
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\obj\Debug\Lab4_WindApplication.exe
+D:\LTC#_WinForm\Lab4_WindApplication\Lab4_WindApplication\obj\Debug\Lab4_WindApplication.pdb
