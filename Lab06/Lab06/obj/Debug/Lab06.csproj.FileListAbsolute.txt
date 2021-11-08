@@ -1,0 +1,15 @@
+D:\LTC#_WinForm\Lab06\Lab06\bin\Debug\Lab06.exe.config
+D:\LTC#_WinForm\Lab06\Lab06\bin\Debug\Lab06.exe
+D:\LTC#_WinForm\Lab06\Lab06\bin\Debug\Lab06.pdb
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.Form1.resources
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.exe
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.pdb
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.frmFood.resources
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.frmBills.resources
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.frmAccountManager.resources
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.frmBillsDetail.resources
+D:\LTC#_WinForm\Lab06\Lab06\obj\Debug\Lab06.frmRole.resources
