@@ -1,0 +1,16 @@
+D:\LTC#_WinForm\Lab07\Lab07\bin\Debug\Lab07.exe.config
+D:\LTC#_WinForm\Lab07\Lab07\bin\Debug\Lab07.exe
+D:\LTC#_WinForm\Lab07\Lab07\bin\Debug\Lab07.pdb
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.Form1.resources
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.cache
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.exe
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.pdb
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.FoodInfoForm.resources
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.AddCategoryFood.resources
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.AccountForm.resources
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.RoleForm.resources
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.OrderForm.resources
+D:\LTC#_WinForm\Lab07\Lab07\obj\Debug\Lab07.OrderDetail.resources
